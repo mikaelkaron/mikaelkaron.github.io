@@ -11,9 +11,8 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 lang: en-US
 title: mikael.karon.se
 email: mikael@karon.se
-description: Mikael Karon's personal blog
+description: Mikael Karon's personal site
 baseurl:
-url: "https://mmistakes.github.io"
 repository: "mikaelkaron/mikaelkaron.github.io"
 url: "http://mikael.karon.se"
 author:
@@ -24,9 +23,6 @@ twitter_username: mikaelkaron
 github_username: mikaelkaron
 linkedin_username: mikaelkaron
 logo: "/assets/images/mikaelkaron.jpg"
-google_analytics: UA-2011187-6
-disqus:
-  shortname: basically-basic-theme
 
 # Conversion
 markdown: kramdown
@@ -52,7 +48,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins: # previously gems
@@ -81,6 +77,10 @@ paginate_path: /page:num/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Disqus
+# disqus:
+#   shortname: basically-basic-theme
 
 # Front Matter Defaults
 defaults:
