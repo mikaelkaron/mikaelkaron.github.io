@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mikaelkaron
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mikael.karon.se
+  * I am mikaelkaron (https://keybase.io/mikaelkaron) on keybase.
+  * I have a public key ASB-E40_SVShGH6hV5m7K-G6J4fPQf4rv52ICz45UAtp5Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e138d3f4954a1187ea15799bb2be1ba2787cf41fe2bbf9d880b3e39500b69e40a",
+      "host": "keybase.io",
+      "kid": "01207e138d3f4954a1187ea15799bb2be1ba2787cf41fe2bbf9d880b3e39500b69e40a",
+      "uid": "4be6f23a5e820d10283e95a9ead12619",
+      "username": "mikaelkaron"
+    },
+    "merkle_root": {
+      "ctime": 1507210749,
+      "hash": "a726ff36bba7a58c5a6bc095457f6e0a32af427c2542c1f32a2f2031f2899de38cf0f4dc35f34dfd294b454914bd31581807d129d01227c2555881016c77189c",
+      "hash_meta": "3ec98a9b889cf7ba99906c462572d8f460a642854e84daf36224433960500ba2",
+      "seqno": 1512949
+    },
+    "service": {
+      "hostname": "mikael.karon.se",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507210758,
+  "expire_in": 504576000,
+  "prev": "4a673d0ab2eb1926acede37982533f9ca5fa7a30130118e2368bb02106acbbd8",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfhONP0lUoRh+oVeZuyvhuieHz0H+K7+diAs+OVALaeQKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2UxMzhkM2Y0OTU0YTExODdlYTE1Nzk5YmIyYmUxYmEyNzg3Y2Y0MWZlMmJiZjlkODgwYjNlMzk1MDBiNjllNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2UxMzhkM2Y0OTU0YTExODdlYTE1Nzk5YmIyYmUxYmEyNzg3Y2Y0MWZlMmJiZjlkODgwYjNlMzk1MDBiNjllNDBhIiwidWlkIjoiNGJlNmYyM2E1ZTgyMGQxMDI4M2U5NWE5ZWFkMTI2MTkiLCJ1c2VybmFtZSI6Im1pa2FlbGthcm9uIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MjEwNzQ5LCJoYXNoIjoiYTcyNmZmMzZiYmE3YTU4YzVhNmJjMDk1NDU3ZjZlMGEzMmFmNDI3YzI1NDJjMWYzMmEyZjIwMzFmMjg5OWRlMzhjZjBmNGRjMzVmMzRkZmQyOTRiNDU0OTE0YmQzMTU4MTgwN2QxMjlkMDEyMjdjMjU1NTg4MTAxNmM3NzE4OWMiLCJoYXNoX21ldGEiOiIzZWM5OGE5Yjg4OWNmN2JhOTk5MDZjNDYyNTcyZDhmNDYwYTY0Mjg1NGU4NGRhZjM2MjI0NDMzOTYwNTAwYmEyIiwic2Vxbm8iOjE1MTI5NDl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWlrYWVsLmthcm9uLnNlIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwNzIxMDc1OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI0YTY3M2QwYWIyZWIxOTI2YWNlZGUzNzk4MjUzM2Y5Y2E1ZmE3YTMwMTMwMTE4ZTIzNjhiYjAyMTA2YWNiYmQ4Iiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQEiA3UwA7iPeHuQHHqEk+Pvxakoyuuh/Rc7i/AuFG7cSednUCgVEJQb7nT3KMu7afalPFF7Tt48b0nQvJ4PUqgaoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCF2CJBQWlSJM2Hqb+kJxOyBdY7tci1MiRROhTm4lKwd6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikaelkaron
+
+==================================================================
