@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "name": "Mikael Karon",
+    "label": "Architect, developer and open-source evangelist",
+    "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAQrAAAAJGY3YzVkYTlkLTRmMTktNDdhYS05MWYyLWMyNWU5YTNkNjVjNA.jpg",
+    "email": "mikael@karon.se",
+    "website": "http://mikael.karon.se",
+    "summary": "I solve problems for a living. I am passionate about what I do, the applications I develop, and the solutions I architect. I am an enthusiastic team player who loves to contribute.",
+    "location": {
+      "city": "Stockholm",
+      "countryCode": "SE"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mikaelkaron",
+        "url": "https://github.com/mikaelkaron/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mikaelkaron",
+        "url": "https://linkedin.com/in/mikaelkaron"
+      },
+      {
+        "network": "Twitter",
+        "username": "mikaelkaron",
+        "url": "https://twitter.com/mikaelkaron"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SchoolApply",
+      "position": "CTO",
+      "website": "https://schoolapply.com",
+      "startDate": "2016-01-01",
+      "summary": "In my day-to-day job I organize our talanted team of developers and help design and implement new and innovative systems to power our ops staff and excite our users.",
+      "highlights": [
+        "Work with a really diverse and distributed team of co-workers.",
+        "Researching things like docker, kubernetes and micro-service platforms."
+      ]
+    },
+    {
+      "company": "EF Learning Labs",
+      "position": "Front-end Lead Architect",
+      "website": "https://labs.ef.com",
+      "startDate": "2012-02-01",
+      "endDate": "2015-12-01",
+      "summary": "Modernized the front-end stack and tools, advocated open-source methodologies and represented EF as a speaker at meetups and conferences. I helped build and train the front-end teams, guide product owners and advise executives.",
+      "highlights": [
+        "Authored TroopJS, an open-source framework for enterprise scale JavaScript applications used to create Englishtown Efekta 13/14 and EFSET.org - the world’s first free standardized English test online.",
+        "Co-founded JSWeekend, the principal JavaScript meetup in Shanghai.",
+        "Speaker at HangJS, part of jsconf.cn - the largest JavaScript conference in China."
+      ]
+    },
+    {
+      "company": "MyCube.com",
+      "position": "Chief Architect",
+      "startDate": "2010-03-01",
+      "endDate": "2012-02-01",
+      "summary": "As principal technologist for MyCube, a digital life management tool for exchanging, sharing and selling content I designed and implemented the initial platforms and systems. As the team grew I transitioned to management but maintained an active contributor role.",
+      "highlights": [
+        "Designed and implemented a social network platform to scale beyond 10M members.",
+        "Supported management team during fund raising with technical input and presentations.",
+        "Lead a multi-cultural and multi-disciplinary development team in a high pressure environment."
+      ]
+    },
+    {
+      "company": "Red Sector Pte. Ltd.",
+      "position": "Co Founder",
+      "startDate": "2009-03-01",
+      "endDate": "2010-03-01",
+      "summary": "As one of three co-founders of Red Sector, a boutique consultancy specializing in online sports betting, casinos and payment systems I owned front-end technologies while my partners covered back-end and infrastructure.",
+      "highlights": [
+        "Collaborated on anti-DDOS systems for high-profile online gambling institutions.",
+        "Designed anti-fraud systems for online payment systems.",
+        "Implemented technologies and systems for real-time odds delivery and display."
+      ]
+    },
+    {
+      "company": "Strategem Technologies",
+      "position": "Senior Developer",
+      "startDate": "2006-10-01",
+      "endDate": "2008-12-01",
+      "highlights": [
+        "Designed and developed front-end applications for the exchange, sports book and financial betting platforms optimized for high load and performance (10,000+ concurrent users with sub second data lifetime)."
+      ]
+    },
+    {
+      "company": "Karon Konsul AB",
+      "position": "Founder",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01",
+      "highlights": [
+        "Assisted Englishtown in moving their web application stack from .ASP to .NET and was a member of an R&D team designing next-get frameworks and methodologies for EF."
+      ]
+    },
+    {
+      "company": "EF Englishtown",
+      "position": "Architecht",
+      "website": "http://www.englishtown.com/",
+      "startDate": "2000-01-01",
+      "endDate": "2004-01-01",
+      "highlights": [
+        "Developed an on-line English proficiency solution to test, grade and place a student without teacher aid.",
+        "Developed a mass emailing solution to deliver personalized lessons translated in 15+ languages and delivered to over 5 million recipients daily.",
+        "Developed a CMS featuring personalization, localization and multi target publishing."
+      ]
+    },
+    {
+      "company": "Aquent",
+      "position": "Consultant",
+      "website": "http://aquent.com/",
+      "startDate": "1999-01-01",
+      "endDate": "2000-01-01",
+      "highlights": []
+    },
+    {
+      "company": "En Trappa AB",
+      "position": "Senior Developer",
+      "startDate": "1998-10-01",
+      "endDate": "1999-01-01",
+      "highlights": []
+    },
+    {
+      "company": "Pacer Communications AB",
+      "position": "Developer",
+      "startDate": "1998-01-01",
+      "endDate": "1998-10-01",
+      "highlights": []
+    },
+    {
+      "company": "Viaduct AB",
+      "position": "Lead Developer",
+      "startDate": "1997-01-01",
+      "endDate": "1998-01-01",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bäckahagens Skola",
+      "area": "Stockholm",
+      "studyType": "Elementary",
+      "startDate": "1986-07-01",
+      "endDate": "1995-06-10"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Technologies",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "XSLT"
+      ]
+    },
+    {
+      "name": "Server",
+      "level": "Advanced",
+      "keywords": [
+        "Java",
+        "C#",
+        "Perl"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Advanced",
+      "keywords": [
+        "SQL",
+        "NoSQL",
+        "Graph"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Limited working"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Elementary"
+    }
+  ]
+}

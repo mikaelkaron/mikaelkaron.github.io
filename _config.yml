@@ -1,0 +1,113 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+
+# Site Settings
+lang: en-US
+title: mikael.karon.se
+email: mikael@karon.se
+description: Mikael Karon's personal blog
+baseurl:
+url: "https://mmistakes.github.io"
+repository: "mikaelkaron/mikaelkaron.github.io"
+url: "http://mikael.karon.se"
+author:
+  name: Mikael Karon
+  twitter: mikaelkaron
+  picture: "/assets/images/mikaelkaron.jpg"
+twitter_username: mikaelkaron
+github_username: mikaelkaron
+linkedin_username: mikaelkaron
+logo: "/assets/images/mikaelkaron.jpg"
+google_analytics: UA-2011187-6
+disqus:
+  shortname: basically-basic-theme
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins
+plugins: # previously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# Jekyll Feed
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+
+# Google Analytics
+google_analytics: UA-63431976-2
+
+# Prose
+prose:
+  siteurl: "http://mikael.karon.se"
+  media: "assets/images"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          help: "The title of the post"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          help: "Overriding except for post"
