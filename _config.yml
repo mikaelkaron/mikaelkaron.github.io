@@ -14,7 +14,7 @@ email: mikael@karon.se
 description: Mikael Karon's personal site
 baseurl:
 repository: "mikaelkaron/mikaelkaron.github.io"
-url: "http://mikael.karon.se"
+url: "https://mikael.karon.se"
 author:
   name: Mikael Karon
   twitter: mikaelkaron
@@ -97,7 +97,7 @@ google_analytics: UA-63431976-2
 
 # Prose
 prose:
-  siteurl: "http://mikael.karon.se"
+  siteurl: "https://mikael.karon.se"
   media: "assets/images"
   metadata:
     _posts:
