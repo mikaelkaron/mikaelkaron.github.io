@@ -30,10 +30,18 @@
   },
   "work": [
     {
+      company: "WeTryFun",
+      position: "founder",
+      website: "https://wetry.fun",
+      startDate: "2019-01-01",
+      summary: "WeTryFun is a collective of all-stars from various industries that are collaborate on interesting projects and products. With a roster of talent from show-bartending to large scale event management, app development to dev-ops, marketing services to corporate finance - we've got you covered."
+    },
+    {
       "company": "SchoolApply",
       "position": "CTO",
       "website": "https://schoolapply.com",
       "startDate": "2016-01-01",
+      "endDate": "2019-01-01",
       "summary": "In my day-to-day job I organize our talanted team of developers and help design and implement new and innovative systems to power our ops staff and excite our users.",
       "highlights": [
         "Work with a really diverse and distributed team of co-workers.",
