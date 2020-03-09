@@ -25,7 +25,11 @@
         "network": "Twitter",
         "username": "mikaelkaron",
         "url": "https://twitter.com/mikaelkaron"
-      }
+      },
+      {
+        "network": "StackOverflow",
+        "username": "mikaelkaron",
+        "url": "https://stackoverflow.com/story/mikaelkaron"
     ]
   },
   "work": [
