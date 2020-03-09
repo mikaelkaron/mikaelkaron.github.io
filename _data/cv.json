@@ -2,9 +2,9 @@
   "basics": {
     "name": "Mikael Karon",
     "label": "Architect, developer and open-source evangelist",
-    "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAQrAAAAJGY3YzVkYTlkLTRmMTktNDdhYS05MWYyLWMyNWU5YTNkNjVjNA.jpg",
+    "picture": "https://en.gravatar.com/userimage/46553147/668dac6803301b6edf0ed9c6af36d319.jpeg",
     "email": "mikael@karon.se",
-    "website": "http://mikael.karon.se",
+    "website": "https://mikael.karon.se",
     "summary": "I solve problems for a living. I am passionate about what I do, the applications I develop, and the solutions I architect. I am an enthusiastic team player who loves to contribute.",
     "location": {
       "city": "Stockholm",
@@ -34,11 +34,11 @@
   },
   "work": [
     {
-      company: "WeTryFun",
-      position: "founder",
-      website: "https://wetry.fun",
-      startDate: "2019-01-01",
-      summary: "WeTryFun is a collective of all-stars from various industries that are collaborate on interesting projects and products. With a roster of talent from show-bartending to large scale event management, app development to dev-ops, marketing services to corporate finance - we've got you covered."
+      "company": "WeTryFun",
+      "position": "founder",
+      "website": "https://wetry.fun",
+      "startDate": "2019-01-01",
+      "summary": "WeTryFun is a collective of all-stars from various industries that are collaborate on interesting projects and products. With a roster of talent from show-bartending to large scale event management, app development to dev-ops, marketing services to corporate finance - we've got you covered."
     },
     {
       "company": "SchoolApply",
