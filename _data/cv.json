@@ -17,6 +17,11 @@
         "url": "https://github.com/mikaelkaron"
       },
       {
+        "network": "GitLab",
+        "username": "mikaelkaron",
+        "url": "https://gitlab.com/mikaelkaron"
+      },
+      {
         "network": "LinkedIn",
         "username": "mikaelkaron",
         "url": "https://linkedin.com/in/mikaelkaron"
@@ -30,6 +35,11 @@
         "network": "StackOverflow",
         "username": "mikaelkaron",
         "url": "https://stackoverflow.com/story/mikaelkaron"
+      },
+      {
+        "network": "NPM",
+        "username": "mikaelkaron",
+        "url": "https://www.npmjs.com/~mikaelkaron"
       }
     ]
   },
@@ -163,30 +173,17 @@
     {
       "name": "Web Technologies",
       "level": "Master",
-      "keywords": [
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "XSLT"
-      ]
+      "keywords": ["JavaScript", "HTML", "CSS", "XSLT"]
     },
     {
       "name": "Server",
       "level": "Advanced",
-      "keywords": [
-        "Java",
-        "C#",
-        "Perl"
-      ]
+      "keywords": ["Java", "C#", "Perl"]
     },
     {
       "name": "Database",
       "level": "Advanced",
-      "keywords": [
-        "SQL",
-        "NoSQL",
-        "Graph"
-      ]
+      "keywords": ["SQL", "NoSQL", "Graph"]
     }
   ],
   "languages": [
