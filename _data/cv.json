@@ -45,6 +45,13 @@
   },
   "work": [
     {
+      "company": "CareChain AB",
+      "position": "CTO",
+      "website": "https://carechain.io",
+      "startDate": "2020-04-01",
+      "summary": "CareChain AB is a positive impact venture launch pad. We use software engineering and system design to solve societal challenges."
+    },
+    {
       "company": "WeTryFun",
       "position": "Founder",
       "website": "https://wetry.fun",
