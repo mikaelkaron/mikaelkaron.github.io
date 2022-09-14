@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Let's start blogging
 excerpt: this is the excerp
 ---
