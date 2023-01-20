@@ -190,7 +190,7 @@
     {
       "name": "Languages",
       "level": "Master",
-      "keywords": ["JavaScript", "Java", ".NET", "Perl", "C", "C++"]
+      "keywords": ["JavaScript", "Java", "C#", "C", "C++", "Perl"]
     },
     {
       "name": "Communication",
@@ -201,7 +201,13 @@
       "name": "Database",
       "level": "Advanced",
       "keywords": ["SQL", "NoSQL", "Graph"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Advanced",
+      "keywords": ["Spring", "Hibernate", "JAX-RS", "GWT", "JSF", ".NET", "StencilJS", "Angular", "React", "jQuery", "XState"]
     }
+
   ],
   "languages": [
     {
