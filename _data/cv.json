@@ -189,8 +189,8 @@
     },
     {
       "name": "Server",
-      "level": "Advanced",
-      "keywords": ["Java", "C#", "Perl"]
+      "level": "Master",
+      "keywords": ["JavaScript", "Java", ".NET", "Perl"]
     },
     {
       "name": "Database",
