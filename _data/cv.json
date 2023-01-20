@@ -183,14 +183,19 @@
   ],
   "skills": [
     {
-      "name": "Web Technologies",
+      "name": "Technologies",
       "level": "Master",
-      "keywords": ["JavaScript", "HTML", "CSS", "XSLT"]
+      "keywords": ["HTML", "CSS", "XML", "XSLT"]
     },
     {
-      "name": "Server",
+      "name": "Languages",
       "level": "Master",
-      "keywords": ["JavaScript", "Java", ".NET", "Perl"]
+      "keywords": ["JavaScript", "Java", ".NET", "Perl", "C", "C++"]
+    },
+    {
+      "name": "Communication",
+      "level": "Master",
+      "keywords": ["REST", "GraphQL", "WebSocket", "Web-RTC", "XMPP", "SIP"]
     },
     {
       "name": "Database",
